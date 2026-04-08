@@ -81,7 +81,7 @@ button[type="submit"]:hover {
   overflow: hidden;
   position: relative;
   text-align: center;
-  visibility: hidden;
+  visibility: visible;
   width: 100vw;
 }
 
